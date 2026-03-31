@@ -1,0 +1,15 @@
+{
+  "name": "music_window_emulator",
+  "version": "1.0.0",
+  "description": "Эмулятор ЯМузыки в виде плагина(маленький)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^41.1.0"
+  }
+}
