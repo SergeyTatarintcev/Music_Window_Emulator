@@ -2,8 +2,9 @@
   "name": "music_window_emulator",
   "version": "1.0.0",
   "description": "Эмулятор ЯМузыки в виде плагина(маленький)",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -11,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^41.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.0"
   }
 }
