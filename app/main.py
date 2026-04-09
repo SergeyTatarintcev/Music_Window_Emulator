@@ -1,2 +1,6 @@
+from app.ui import MusicWidget
+
+
 def main():
-    print("Music Widget started")
+    app = MusicWidget()
+    app.mainloop()
