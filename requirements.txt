@@ -17,6 +17,7 @@ requests==2.33.1
 typing_extensions==4.15.0
 urllib3==2.6.3
 winrt-runtime==3.2.1
+winrt-Windows.Foundation==3.2.1
 winrt-Windows.Media.Control==3.2.1
 winrt-Windows.System==3.2.1
 yandex-music==2.2.0
